@@ -1,0 +1,16 @@
+Copyright © 2026. All rights reserved.
+
+All software, generated assets, visual artwork, interface design, maps,
+written material, music, audio, recordings, characters, fictional material,
+and associated media contained in this repository are proprietary works.
+
+No permission is granted to copy, reproduce, modify, adapt, distribute,
+publish, sublicense, sell, commercially exploit, create derivative works
+from, or otherwise reuse any portion of this repository or its contents
+without explicit prior written permission from the copyright holder or
+holders.
+
+Public accessibility does not constitute a grant of license or permission
+for reuse.
+
+All rights not expressly granted are reserved.
