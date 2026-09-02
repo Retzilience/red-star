@@ -1,7 +1,0 @@
-RED STAR — PLAYER PACKAGE
-
-LOCAL: abra RED_STAR.html diretamente no Firefox ou Chrome.
-GITHUB PAGES: publique a raiz desta pasta; index.html e .nojekyll já estão prontos.
-Não é necessário servidor, Python ou etapa de build no pacote do jogador.
-O site requer áudio habilitado.
-Não renomeie, mova ou edite os arquivos auxiliares desta pasta.
